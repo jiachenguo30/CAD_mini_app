@@ -1,0 +1,7 @@
+neurokit2
+pyhrv
+ecgdetectors
+streamlit
+joblib
+io
+PIL
